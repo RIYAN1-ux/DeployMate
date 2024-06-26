@@ -20,5 +20,7 @@
 12. then install node js `sudo apt install nodejs`
 13. then run the node js `node app.js`
 14. The local host ip is generated : `http://localhost:3000`.
-15. At the end take the Public Ip from the Instance created and add the port number after it : `Ip address :Port_number` 
+15. At the end take the Public Ip from the Instance created and add the port number after it : `Ip address :Port_number`
+16. To kill a Port use the command `losf -i :port_number`
+17. Now to kill the process `sudo kill -9 <pid>`
  
