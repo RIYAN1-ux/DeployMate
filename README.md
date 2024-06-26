@@ -16,5 +16,9 @@
 8. Now check the status of the nginx `systemctl status nginx`
 9. open the file in path `cd \var\www\html`
 10. now remove that html file `rm index._______`
-11. 
+11. update system `sudo apt update`
+12. then install node js `sudo apt install nodejs`
+13. then run the node js `node app.js`
+14. The local host ip is generated : `http://localhost:3000`.
+15. At the end take the Public Ip from the Instance created and add the port number after it : `Ip address :Port_number` 
  
