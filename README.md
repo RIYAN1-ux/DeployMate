@@ -25,6 +25,6 @@
 17. Now to kill the process `sudo kill -9 <pid>`
 18.  ⁠Build a insatnce for the Jenkins
 19.  Run and open that instance , with the commands for jenkins
-20.  After enabling jenkins , copy public ip   and add ⁠ :8080 ⁠
+20.  After enabling jenkins , copy public ip and add ⁠ :8080 ⁠
 4.
  
